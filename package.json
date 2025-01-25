@@ -28,7 +28,7 @@
     "react-custom-scrollbars": "^4.2.1",
     "react-dom": "18.2.0",
     "react-icomoon": "^2.5.3",
-    "react-intl": "^6.0.5",
+    "react-intl": "^6.8.9",
     "react-tooltip": "^4.2.21",
     "ua-parser-js": "^1.0.2"
   },
