@@ -23,7 +23,7 @@
     "lodash.xor": "^4.5.0",
     "lookie": "^1.0.4",
     "next": "12.2.2",
-    "react": "18.2.0",
+    "react": "18.3.1",
     "react-collapsible": "^2.8.4",
     "react-custom-scrollbars": "^4.2.1",
     "react-dom": "18.2.0",
