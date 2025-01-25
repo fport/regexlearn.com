@@ -22,7 +22,7 @@
     "lodash.isempty": "^4.4.0",
     "lodash.xor": "^4.5.0",
     "lookie": "^1.0.4",
-    "next": "12.2.2",
+    "next": "12.3.4",
     "react": "18.2.0",
     "react-collapsible": "^2.8.4",
     "react-custom-scrollbars": "^4.2.1",
